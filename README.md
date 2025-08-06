@@ -1,2 +1,3 @@
 # practice-programs-
-the program in this repository  are build without using special method except in array
+the program in this repository  are for practices
+
