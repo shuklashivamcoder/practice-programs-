@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "689b1089e5397f37988504cb",
+    "name": "shukla",
+    "age": 19,
+    "course": "cse",
+    "createdAt": "2025-08-12T09:59:37.226Z",
+    "updatedAt": "2025-08-12T10:47:40.750Z",
+    "__v": 0
+  },
+  {
+    "_id": "689b1d7481fb683a163a7042",
+    "name": "shukla shivam ",
+    "age": 4,
+    "course": "cse",
+    "createdAt": "2025-08-12T10:54:44.273Z",
+    "updatedAt": "2025-08-12T10:54:44.273Z",
+    "__v": 0
+  },
+  {
+    "_id": "689b1d8681fb683a163a7044",
+    "name": "shuklashivam ",
+    "age": 784,
+    "course": "it",
+    "createdAt": "2025-08-12T10:55:02.001Z",
+    "updatedAt": "2025-08-12T10:55:02.001Z",
+    "__v": 0
+  },
+  {
+    "_id": "689b1d9681fb683a163a7046",
+    "name": "ahuklashivam ",
+    "age": 7894,
+    "course": "cse",
+    "createdAt": "2025-08-12T10:55:18.989Z",
+    "updatedAt": "2025-08-12T10:55:18.989Z",
+    "__v": 0
+  }
+]
