@@ -125,23 +125,34 @@ export async function countcourse(req, res){
 }
 
 export async function exportfile(req, res) {
-    try{
-    const alldata = await User.find({})
-    let datatext = JSON.stringify(alldata, null, 2)
-
-    fs.appendFile('studen.text',datatext,(error,data)=>{
-        if(error){
-            console.log(error)
-        }
-        return res.json({
-            message: 'file created successfully'
+    try {
+        const alldata = await User.find({})
+        let datatext = stringify(alldata, {header:true,  columns: {
+         
+    name: 'name',
+    age: 'age',
+    course: 'course'
+  } 
+},(error,output)=>{
+            if(error){
+                console.log(error)
+            }
+            fs.appendFile('student.csv', output, (error, data) => {
+            if (error) {
+                console.log(error)
+            }
+            return res.json({
+                message: 'file created successfully'
+            })
         })
-    })
+       
+        })
 
-    }catch(error){
+
+    } catch (error) {
         return res.json({
             error: error
         })
     }
-    
+
 }
