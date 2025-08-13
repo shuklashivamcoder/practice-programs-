@@ -1,0 +1,24 @@
+name,age,course
+shukla,20,cse
+shukla shivam ,4,cse
+shuklashivam ,784,it
+ahuklashivam ,7894,cse
+kunal,43,cse
+name,age,course
+shukla,20,cse
+shukla shivam ,4,cse
+shuklashivam ,784,it
+ahuklashivam ,7894,cse
+kunal,43,cse
+name,age,course
+shukla,20,cse
+shukla shivam ,4,cse
+shuklashivam ,784,it
+ahuklashivam ,7894,cse
+kunal,43,cse
+$__,$isNew,_doc
+"{""activePaths"":{""paths"":{""_id"":""init"",""name"":""init"",""age"":""init"",""course"":""init"",""createdAt"":""init"",""updatedAt"":""init"",""__v"":""init""},""states"":{""init"":{""_id"":true,""name"":true,""age"":true,""course"":true,""createdAt"":true,""updatedAt"":true,""__v"":true}}},""skipId"":true}",,"{""_id"":""689b1089e5397f37988504cb"",""name"":""shukla"",""age"":20,""course"":""cse"",""createdAt"":""2025-08-12T09:59:37.226Z"",""updatedAt"":""2025-08-12T11:26:30.143Z"",""__v"":0}"
+"{""activePaths"":{""paths"":{""_id"":""init"",""name"":""init"",""age"":""init"",""course"":""init"",""createdAt"":""init"",""updatedAt"":""init"",""__v"":""init""},""states"":{""init"":{""_id"":true,""name"":true,""age"":true,""course"":true,""createdAt"":true,""updatedAt"":true,""__v"":true}}},""skipId"":true}",,"{""_id"":""689b1d7481fb683a163a7042"",""name"":""shukla shivam "",""age"":4,""course"":""cse"",""createdAt"":""2025-08-12T10:54:44.273Z"",""updatedAt"":""2025-08-12T10:54:44.273Z"",""__v"":0}"
+"{""activePaths"":{""paths"":{""_id"":""init"",""name"":""init"",""age"":""init"",""course"":""init"",""createdAt"":""init"",""updatedAt"":""init"",""__v"":""init""},""states"":{""init"":{""_id"":true,""name"":true,""age"":true,""course"":true,""createdAt"":true,""updatedAt"":true,""__v"":true}}},""skipId"":true}",,"{""_id"":""689b1d8681fb683a163a7044"",""name"":""shuklashivam "",""age"":784,""course"":""it"",""createdAt"":""2025-08-12T10:55:02.001Z"",""updatedAt"":""2025-08-12T10:55:02.001Z"",""__v"":0}"
+"{""activePaths"":{""paths"":{""_id"":""init"",""name"":""init"",""age"":""init"",""course"":""init"",""createdAt"":""init"",""updatedAt"":""init"",""__v"":""init""},""states"":{""init"":{""_id"":true,""name"":true,""age"":true,""course"":true,""createdAt"":true,""updatedAt"":true,""__v"":true}}},""skipId"":true}",,"{""_id"":""689b1d9681fb683a163a7046"",""name"":""ahuklashivam "",""age"":7894,""course"":""cse"",""createdAt"":""2025-08-12T10:55:18.989Z"",""updatedAt"":""2025-08-12T10:55:18.989Z"",""__v"":0}"
+"{""activePaths"":{""paths"":{""_id"":""init"",""name"":""init"",""age"":""init"",""course"":""init"",""createdAt"":""init"",""updatedAt"":""init"",""__v"":""init""},""states"":{""init"":{""_id"":true,""name"":true,""age"":true,""course"":true,""createdAt"":true,""updatedAt"":true,""__v"":true}}},""skipId"":true}",,"{""_id"":""689b2329d171018338e3ab67"",""name"":""kunal"",""age"":43,""course"":""cse"",""createdAt"":""2025-08-12T11:19:05.354Z"",""updatedAt"":""2025-08-12T11:19:05.354Z"",""__v"":0}"
